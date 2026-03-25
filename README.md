@@ -64,5 +64,5 @@ Here are a few projects I've recently worked on that I'm particularly proud of. 
 
 I am always open to discussing new opportunities, internship roles, or exciting tech projects. 
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/mikołaj-chlebicz-33b70a3a5](https://www.linkedin.com/in/miko%25C5%2582aj-chlebicz-33b70a3a5)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/chlebicz](https://www.linkedin.com/in/chlebicz)
 * 📧 **Email:** [mikolaj.chlebicz@gmail.com](mailto:mikolaj.chlebicz@gmail.com)
